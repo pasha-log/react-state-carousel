@@ -1,4 +1,4 @@
-# react-state-carousel
+# React State Carousel
 
 <img src='carousel/public/carousel.png' alt='' height='350' width='800'>
 
